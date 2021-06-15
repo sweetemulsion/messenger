@@ -55,7 +55,7 @@ body {
 .chat__close {
   background: none;
   border: 0;
-  background: url('./img/close.svg') 50%;
+  background: url('close.svg') 50%;
   width: 20px;
   height: 20px;
   cursor: pointer;
